@@ -1,4 +1,5 @@
 ### Ejercicio 1 - Impuestos de salario
+
 Una empresa de chocolates necesita calcular el impuesto de sus empleados al momento de depositar el sueldo, para cumplir el objetivo es 
 necesario crear una función que devuelva el impuesto de un salario.
 
